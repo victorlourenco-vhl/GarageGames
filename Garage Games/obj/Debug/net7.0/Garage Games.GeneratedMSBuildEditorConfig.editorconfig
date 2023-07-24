@@ -16,16 +16,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/020606631/Documents/Estudos/C\#/Garage Games/Garage Games/Views/Home/Demo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZW1vLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/020606631/Documents/Estudos/C\#/Garage Games/Garage Games/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/020606631/Documents/Estudos/C\#/Garage Games/Garage Games/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/020606631/Documents/Estudos/C\#/Garage Games/Garage Games/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/020606631/Documents/Estudos/C\#/Garage Games/Garage Games/Views/Shared/_Carousel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYXJvdXNlbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/020606631/Documents/Estudos/C\#/Garage Games/Garage Games/Views/Shared/_ValidationScriptsPartial.cshtml]

@@ -1,0 +1,31 @@
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\bin\Debug\net7.0\appsettings.json
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\bin\Debug\net7.0\Garage Games.staticwebassets.runtime.json
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\bin\Debug\net7.0\Garage Games.exe
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\bin\Debug\net7.0\Garage Games.deps.json
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\bin\Debug\net7.0\Garage Games.runtimeconfig.json
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\bin\Debug\net7.0\Garage Games.dll
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\bin\Debug\net7.0\Garage Games.pdb
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\obj\Debug\net7.0\Garage Games.csproj.AssemblyReference.cache
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\obj\Debug\net7.0\Garage Games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\obj\Debug\net7.0\Garage Games.AssemblyInfoInputs.cache
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\obj\Debug\net7.0\Garage Games.AssemblyInfo.cs
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\obj\Debug\net7.0\Garage Games.csproj.CoreCompileInputs.cache
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\obj\Debug\net7.0\Garage Games.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\obj\Debug\net7.0\Garage Games.RazorAssemblyInfo.cache
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\obj\Debug\net7.0\Garage Games.RazorAssemblyInfo.cs
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\obj\Debug\net7.0\staticwebassets\msbuild.Garage Games.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\obj\Debug\net7.0\staticwebassets\msbuild.build.Garage Games.props
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Garage Games.props
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Garage Games.props
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\obj\Debug\net7.0\scopedcss\bundle\Garage Games.styles.css
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\obj\Debug\net7.0\scopedcss\projectbundle\Garage Games.bundle.scp.css
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\obj\Debug\net7.0\Garage Games.dll
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\obj\Debug\net7.0\refint\Garage Games.dll
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\obj\Debug\net7.0\Garage Games.pdb
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\obj\Debug\net7.0\Garage Games.genruntimeconfig.cache
+C:\Users\020606631\Documents\Estudos\C#\Garage Games\Garage Games\obj\Debug\net7.0\ref\Garage Games.dll

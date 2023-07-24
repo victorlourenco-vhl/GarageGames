@@ -18,6 +18,11 @@ namespace Garage_Games.Controllers
             return View();
         }
 
+        public IActionResult Demo()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
